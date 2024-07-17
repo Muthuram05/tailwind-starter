@@ -7,7 +7,7 @@ function App() {
         <img
           src="https://pixlr.com/images/index/product-image-one.webp"
           alt="logo"
-          className="rounded-full w-50 h-50"
+          className="rounded-full w-50 h-50 border-2 border-emerald-600"
         />
         <div className="pt-2 pb-4 flex gap-1">
           <div className="w-4 h-1 bg-green-600"></div>
